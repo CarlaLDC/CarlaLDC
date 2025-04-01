@@ -16,6 +16,6 @@ Bem-vindos ao meu perfil do Github! ✨
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,figma,windows,apple,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,python,figma,windows,apple,vscode" />
   </a>
 </p>
